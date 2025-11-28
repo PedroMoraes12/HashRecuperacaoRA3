@@ -5,7 +5,7 @@
 - Disciplina: Resolução de Problemas Estruturados em Computação
 - Professor: Andrey Cabral Meira
 
-## Vídeo de Apresentação: []
+## Vídeo de Apresentação: [https://youtu.be/lGgnpsAmtdk]
 
 ## Objetivo do Trabalho
 
